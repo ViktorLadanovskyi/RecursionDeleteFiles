@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class Main {
-    static String path = "D:/Mariupol_orto_tiles/без удалений/Новая папка";
+    static String path = "";
     static int fileLength = 1651;
     static long count;
 
